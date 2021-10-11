@@ -1,0 +1,45 @@
+La variable statistique "couleur de maisons d’un quartier" est-elle :
+Qualitative
+
+La variable statistique "revenu brut" est-elle :
+
+
+
+La variable statistique "nombre de maisons vendues par ville" est-elle :
+quantitative discrete
+
+
+On appelle variable, une caractéristique que l’on étudie.
+True
+La tâche de la statistique descriptive est de recueillir des données. 
+Faux
+La tâche de la statistique descriptive est de présenter les données sous forme de tableaux, de graphiques et d’indicateurs statistiques.
+True
+En Statistique, on classe les variables selon différents types.
+True
+Les valeurs des variables sont aussi appelées modalités.
+Vraie
+Pour une variable qualitative, chaque individu statistique ne peut avoir qu’une seule modalité.
+true
+Pour faire des traitements statistiques, il arrive qu’on transforme une variable quantitative en variable qualitative.
+Vrai
+La variable quantitative poids d’automobile peut être reclassée en compacte, intermédiaire et grosse.
+True
+En pratique, lorsqu’une variable quantitative discrète prend un grand nombre de valeurs distinctes, on la traite comme continue.
+True
+
+------------EX3------------
+1,07 ecart type 
+
+
+B
+9.25
+
+2,75
+
+Look for the corrigé
+
+
+
+
+ 
