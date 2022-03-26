@@ -1,0 +1,60 @@
+
+Durée de vie d’un composant électronique
+
+On suppose que la durée de fonctionnement d’un composant électronique X d’un ordinateur suit une loi exponentielle 
+de paramètre 1/2 (unités exprimées en nombre d’années).   
+Calculer la probabilité pour que X dure plus de 3 ans.
+Donner la durée de vie moyenne de X.
+On suppose que X fonctionne depuis 2 ans. Quelle est la probabilité qu’il fonctionne encore dans 3 ans.
+
+
+Corrigé 
+Il faut appliquer la loi de probabilité exponentielle 
+Quand on parle d’un accident (Loi poisson)
+Quand on parle de hasard (loi normale)
+
+x -> Exp(Lambda= (½)) Vieillissement 
+Densité : f(x) = lambda  * exp(-lambda * x ) =  
+p(x>= 3 ) = P(3<=  x  <= +inf)
+	   = p(3<= x <= 10 ^99)
+= p(10^99) - f(3) = 
+= 1- exp(-½ * 10 ^ 99) - (1 - exp(-½ )* 3 )
+= exp(-½ * 3 ) = 22% 
+ 
+2) 
+    moyenne = 1/alfa = 1/1/2  = 2 (ans)
+
+3) p( x>= 2+3) = p(x>=3) = 22%
+
+p(x >= T + k) = p(x >= k)
+... ne uspel 
+
+
+Exercice 2 
+
+Demande annuelle d’un bien
+La demande annuelle d’un bien (exprimée en unités) suit une loi normale de paramètres m = 12300 et σ = 1120.
+Calculer la probabilité que la demande soit :
+Inférieure ou égale à 12300.
+Inférieure ou égale à 11000.
+Supérieure à 12700.
+Quelle est la probabilité d’atteindre le seuil de rentabilité si celui-ci s’élève à 12100 unités ?
+
+
+X -> P( m = 12300, omega^2 = 1120^2)
+1) P (X <= 12300) 
+
+P(X <= 12300) = P(10^99 <= X <= 12300)
+
+f(x) = (1/sqrt(2pi*omega)) * exp(1/2(x-m/omega)^2) 
+
+
+
+
+
+
+
+
+
+
+
