@@ -1,0 +1,147 @@
+---------Bussines course---------
+Choose a brand 
+
+I) Marketing analysis of the brand (Mix, Porter) Fundamental marketing
+II) International marketing development (Ansoff) Strategic marketing 
+
+Strategic tools that are use in AI 
+
+1) International mix 10 P'S  
+Product
+price
+promtion
+place(ecommerce) 
+people(how to achieve the aim )  
+packaging 
+positionning(image of the product)
+pub(communicatoion) 
+process
+politics (how to achieve the aim ) 
+2) Perstel analysis 
+Political
+Economical, sociological
+technological 
+ecological 
+legal
+KEY POINTS: evolution ,trends ,risks evaluated every second by aggregating huge data input and global company warnings. 
+
+3) BGC matrix 
+4) ANSOFF matrix 
+5) Kapferer PRISM 
+
+
+
+Chose a brand and make an analysis on it. 
+
+Spotify marketing strategy 
+
+
+1) Presentation de l'entrprise 
+historique 
+chiffre clé 
+mission 
+
+
+
+
+2 SLIDE 
+
+Now let's speak a bit about what are the key points of spotify 
+
+- 365 million people use Spotify once a month where 165 millions are monthly subscribers 
+
+- 70 million songs are availale on Sppotify and 2.9 million podcasts 
+
+- Spotify supports artists by paying them, they claims that they paid €21 billion to rights holders 
+
+
+Strengths
+
+1 Spotify’s strong brand is based on the popularity of its music streaming services. Even though the company started its international expansion in 2009, the business has steadily expanded to offer its digital media services to a continually increasing user base. 
+This growth is codependent with the Spotify brand, which is a major strength in this SWOT analysis. The brand strength contributes to competitiveness that reduces the ability of smaller music streaming firms to convince consumers to transfer from the company. Thus, this internal strategic factor shapes Spotify’s development in terms of how it organizes its business around the brand and its utilization in various music streaming markets worldwide.
+
+2. This internal factor involves the ability of the company to provide its streaming services to consumers around the world. This ability is due to the online nature of Spotify’s business operations. The strength is also based on the global proliferation of the Internet and online devices. As a result of this internal strategic factor, customers can easily access their preferred music via Spotify’s web site or mobile apps. 
+
+3. I have to mention also a strength of Spotify that is personalisation of content. Using machine learning algorithms they're proposing only music that you may enjoy. That help Spotify to keep their users to use their app and be happier. 
+
+Weaknesses 
+
+1. Conventionally running on zero profits 
+
+In fact, the company’s cumulative annual net losses in the past decade add up to €2.62 billion.
+In more recent times, partly thanks to lower-margin deals with record labels initially signed in 2017, Spotify has gotten closer to profitability.
+In FY 2018, for example, its annual operating loss stood at €43m, nearly a ninth of the size of the equivalent figure (€378m) from the prior year.
+And in FY 2019, despite a €73m annual operating loss, SPOT actually posted a profitable quarter in Q3 (+€54m).
+
+
+2. Internet connectivity
+
+Another weakness to consider in this SWOT analysis of Spotify is the dependence on Internet connectivity. This internal strategic factor is based on the online nature of the business. The actual benefit of the music streaming service and its value chain depends on the speed of the customer’s connectivity to access such service. For example, in developing countries, slow Internet connectivity and relatively high costs reduces the attractiveness of Spotify’s service. In this SWOT framework’s background, such an internal factor is difficult to overcome. Nonetheless, the trend of improving connectivity worldwide reduces the negative effects of this weakness.
+
+
+3. Threads 
+
+1. Competing with established biggies 
+
+Take, for example, the song “I Will Always Love You” from the 1992 soundtrack for “The Bodyguard.” That version of the song was performed by Whitney Houston, the recording of which is owned Sony Music Entertainment. However the song was written by Dolly Parton, who owns the composition, including the lyrics and melody.
+
+Spotify would have to pay Sony to license the recording, who would then give Houston’s estate a percentage of the stream. It would also have to pay the music publisher and songwriter. In this case, Parton is both.
+
+3. Breach of security
+
+
+Opportunities
+
+1.Producing own music using AI and data: </strong> Companies like Apple, IBM and Google have already realised the importance of artificial intelligence in the music industry, specifically in the digital sphere. Deep learning networks, machine learning along with artificial intelligence are used to understand chords, rhythm, tempo and based on that data, the system creates music from scratch. Spotify, being primarily a data driven company, has a core capability in this area since it can use the data to understand the beats and tempo that is being played the most by the users. Using the same data, compositions can be made. 
+
+2 - B2B model, forge partnerships with mobile companies or telecom companies: </strong> The reach of the application can be increased by forging partnerships with mobile companies and telecom companies. Vodafone and AT&amp;T, telecom giant in the USA, which offers a free trial of the premium version for a period of 6 months for the users.  Cross-sharing between applications is the latest trend, and many telecom players are concentrating on providing content along with their packages. 
+- Spotify currently allows cross-sharing with Instagram permitting its users to share what they are listening directly to their Instagram stories conveniently. Hence, Spotify needs to continuously adapt and make changes to the existing service to suit the needs of the customer and remain competitive.
+</p>
+
+3.	Entry into markets with high population density: </strong> India, with a lot of different local labels and local publishers, presented great opportunity for Spotify as the world’s second-largest Internet market. China and India are currently a very low penetrated, fragmented market owing to piracy. This poses a challenge since customers are not willing to pay for paid services. Spotify launched in India in Feb, 2019 and ever since it has seen exponential growth with over a whopping 2M subscribers. Spotify collaborated with T-Series, a leading Indian film and music company with a catalog of more than 160,000 songs.
+
+4.	Music streaming services coming preloaded on devices: </strong> Competitors of Spotify including Apple, Amazon and Google are bundling music streaming services with their devices and many a times offering it free of cost as an add-on or complimentary perk. As they continue to develop and offer music streaming service preloaded on their devices like iTunes for Apple iPhones, iPads and Mac, Amazon Prime Music on Echo and Google Play Music on their Google smartphones, Pixel, Spotify  will face substantial competitive disadvantage. With shifting consumer tastes and choices and technology advancements, as people prefer streaming music on handheld devices or other internet connected products, Spotify will need to adapt to the changing preferences, improve existing services, offer innovative and attractive features to hold onto its reputation and remain competitive.
+
+
+SIMPLE PRICING 
+
+Spotify has a simple pricing model that you can explain to anyone.
+
+
+
+
+Spotify EVERYWHERE 
+
+Spotify will play on all your devices, and I mean all of them. Desktops and phones are apparent, but you can find support for Spotify in Chromecast, Google Home, Alexa, Playstation, Apple Watch, etc. There are so many options that Spotify has an entire website dedicated to the devices they support.
+
+
+
+MUSIC GLOBALISATION 
+
+
+
+Nobody explains this better than CEO Daniel Ek himself, who claims that one of Spotify’s long-term goals is “to be a destination […] where people from every country in the world can exchange music with each other…”
+
+
+While it might feel like Beyoncé is everywhere around the world these days, 80% of the world does not speak English—and their music tastes reflect that. Ever heard of Yalın, İrem Derici, or Бурито? These are the hottest musicians in Russia and Turkey right now.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
