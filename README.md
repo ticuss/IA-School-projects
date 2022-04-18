@@ -1,4 +1,4 @@
 
 # IA-School-projects
 
-These are my projects that i`ve worked on 2021-2023
+These are my projects that i`ve worked in 2021-2023
