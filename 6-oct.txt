@@ -1,45 +1,20 @@
-La variable statistique "couleur de maisons d’un quartier" est-elle :
-Qualitative
+5.1. Value proposition 
+-What are the products and/or services you create for your customers?
 
-La variable statistique "revenu brut" est-elle :
+For our customers we want to create accessories and furniture made of recycled materials: coffee bag burlap, tarps, outdoor canvas etc. To furnish your spaces or communicate through the object. French exclusive, ethical manufacturing and also eco responsible. 
 
+-What is the value you deliver to your customers?
 
+Our philosophy is to produce, in a responsible and sustainable way, according to the principles of eco-design. By recycling the different materials we contribute to limit the volume to be treated in the landfills. Every customer that buys a product from our company, by default, helps the environment and is participating in the idea of making our world a cleaner and better place. We can recycle anything that can be sewn! 
 
-La variable statistique "nombre de maisons vendues par ville" est-elle :
-quantitative discrete
+-Which of your customers’ problems /needs are you helping to solve/addressing?
 
+We are environmentally friendly businesses that help you reduce your impact on the environment and preserve natural resources. Our business can help the environment in many ways. For example:
+We are creating products that reduce your reliance on natural resources.
+We are creating products that are made from recycled material .
+By choosing our products, the customers are making the mindful decision to reduce their ecological footprint. 
 
-On appelle variable, une caractéristique que l’on étudie.
-True
-La tâche de la statistique descriptive est de recueillir des données. 
-Faux
-La tâche de la statistique descriptive est de présenter les données sous forme de tableaux, de graphiques et d’indicateurs statistiques.
-True
-En Statistique, on classe les variables selon différents types.
-True
-Les valeurs des variables sont aussi appelées modalités.
-Vraie
-Pour une variable qualitative, chaque individu statistique ne peut avoir qu’une seule modalité.
-true
-Pour faire des traitements statistiques, il arrive qu’on transforme une variable quantitative en variable qualitative.
-Vrai
-La variable quantitative poids d’automobile peut être reclassée en compacte, intermédiaire et grosse.
-True
-En pratique, lorsqu’une variable quantitative discrète prend un grand nombre de valeurs distinctes, on la traite comme continue.
-True
+-What’s your promise to your customers?
 
-------------EX3------------
-1,07 ecart type 
-
-
-B
-9.25
-
-2,75
-
-Look for the corrigé
-
-
-
-
- 
+Checking our products quality on a daily basis
+As our goal is to build a good, honest relationship with our clients, we put all our efforts into creating closely monitored products which have been checked from A to Z. After having been rigorously selected, our hessian canvases are carefully washed and hand-ironed. All our seams are made using traditional methods. Finally, each piece is thoroughly checked to make sure the stitches and the finish are of the highest standard.
